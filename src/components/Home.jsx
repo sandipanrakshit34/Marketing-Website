@@ -15,25 +15,25 @@ const Home = () => {
   return (
     <div className="container min-w-full min-h-lvh secondary-font">
       <NavBar />
-      <section className="w-full max-h-fit pt-16 lg:px-32 overflow-hidden  bg-gradient-to-br from-[#aab641] via-[#7a833d] to-black border-b border-orange-100">
+      <section className="w-full max-h-fit pt-16 lg:px-32 overflow-hidden  bg-gradient-to-br from-[#f9faf6] via-[#d7d8d2] to-[#000000] border-b border-orange-100">
         <Hero />
       </section>
       <section id="about" className="w-full max-h-fit py-16 lg:px-32 overflow-hidden border-b border-orange-100">
         <About />
       </section>
-      <section id="services" className="w-full max-h-fit py-16 lg:px-32 overflow-hidden bg-gradient-to-br from-[#aab641] via-[#7a833d] to-black border-b border-orange-100">
+      <section id="services" className="w-full max-h-fit py-16 lg:px-32 overflow-hidden bg-gradient-to-br from-[#f9faf6] via-[#d7d8d2] to-[#000000] border-b border-orange-100">
         <Services />
       </section>
       <section id="portfolio" className="w-full max-h-fit py-16 lg:px-32 overflow-hidden border-b border-orange-100">
         <Portfolio />
       </section>
-      <section className="w-full max-h-fit py-16 lg:px-32 overflow-hidden bg-gradient-to-br from-[#aab641] via-[#7a833d] to-black border-b border-orange-100">
+      <section className="w-full max-h-fit py-16 lg:px-32 overflow-hidden bg-gradient-to-br from-[#f9faf6] via-[#d7d8d2] to-[#000000] border-b border-orange-100">
         <FreqAskedQues />
       </section>
       <section className="w-full max-h-fit py-16 lg:px-32 overflow-hidden border-b border-orange-100">
         <Team />
       </section>
-      <section className="w-full max-h-fit py-16 lg:px-32 overflow-hidden bg-gradient-to-br from-[#aab641] via-[#7a833d] to-black border-b border-orange-100">
+      <section className="w-full max-h-fit py-16 lg:px-32 overflow-hidden bg-gradient-to-br from-[#f9faf6] via-[#d7d8d2] to-[#000000] border-b border-orange-100">
         <Clients />
       </section>
       <section id="contact" className="w-full max-h-fit py-16 lg:px-32 overflow-hidden border-b border-orange-100">

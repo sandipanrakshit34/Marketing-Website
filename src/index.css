@@ -21,7 +21,7 @@
 }
 
 body {
-  background: linear-gradient(45deg, #aab641, #7a833d, #000000); /* Using colors that match your scrollbar */
+  background: linear-gradient(45deg, #f9faf6, #d7d8d2, #000000); /* Using colors that match your scrollbar */
 }
 
 /* Custom Scrollbar */
